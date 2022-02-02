@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @caiorodrigo1
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me caiorsantosm@gmail.com
 
 <!---
